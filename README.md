@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devang</h1>
+<div align="center"> <img src="http://res.cloudinary.com/dlmg58jtr/image/upload/v1691553543/my-uploads/b6rv4kh2kyox5zhotgk5.png"> </div>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangptl&label=Profile%20views&color=0e75b6&style=flat" alt="devangptl" /> </p>
